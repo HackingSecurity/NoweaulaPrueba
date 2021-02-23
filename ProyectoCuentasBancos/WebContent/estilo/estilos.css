@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+*{
+	fontSize: 14px;
+	fontName: Tahoma;
+}
+
+header{
+	background-position: center;
+}
+
+td{
+	align:center;
+}
+
+
+a:link {
+	color: white;
+}
+
+
+a:hover{
+	background-color: white;
+	
+	color: blue;
+}
